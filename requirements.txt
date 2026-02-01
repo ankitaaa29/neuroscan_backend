@@ -1,0 +1,13 @@
+
+flask
+flask-cors
+flask-jwt-extended
+flask-sqlalchemy
+flask-migrate
+gunicorn
+bcrypt
+numpy
+Pillow
+opencv-python-headless
+tensorflow-cpu
+pymysql
